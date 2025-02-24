@@ -23,8 +23,11 @@
 - Basic NPM
 
 ### Setup
-- Git Clone
-- cd directory
+- Git Clone https://github.com/RitobrotoMukherjee/react-movie-library.git
+- cd react-movie-library
+- npm create vite@latest
+- Follow instructions in the **CLI**
+- cd **Project name** given in **Vite** installation
 
 ### Deployment
 - Coming Soon[@livedemo](https://#)
