@@ -1,56 +1,42 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Ritobroto-blueviolet)
 
-# Project Name
+# React Movie App
 
-> Description the project.
+> React 19 upskill project
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React-19
+- Tailwind CSS
+- JavaScript
+- JSX
+- HTML 5
+- CSS 3
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+[Coming Soon](https://#)
 
 ### Prerequisites
+- JavaScript
+- Basic NPM
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+- Git Clone
+- cd directory
 
 ### Deployment
-
+- Coming Soon[@livedemo](https://#)
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ritobroto Mukherjee**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/RitobrotoMukherjee)
+- Twitter: [@twitterhandle](https://#)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritobroto-m3/)
 
 ## 🤝 Contributing
 
@@ -64,9 +50,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [JS Mastery](https://www.youtube.com/@javascriptmastery)
 
 ## 📝 License
 
