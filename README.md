@@ -13,6 +13,8 @@
 - JSX
 - HTML 5
 - CSS 3
+- Vite
+- Appwrite
 
 ## Live Demo (if available)
 
@@ -20,14 +22,17 @@
 
 ### Prerequisites
 - JavaScript
+- HTML 5
+- CSS 3
 - Basic NPM
 
 ### Setup
-- Git Clone https://github.com/RitobrotoMukherjee/react-movie-library.git
-- cd react-movie-library
-- npm create vite@latest
+- `Git Clone https://github.com/RitobrotoMukherjee/react-movie-library.git`
+- `cd react-movie-library`
+- `npm create vite@latest`
 - Follow instructions in the **CLI**
 - cd **Project name** given in **Vite** installation
+- `npm i`
 
 ### Deployment
 - Coming Soon[@livedemo](https://#)
