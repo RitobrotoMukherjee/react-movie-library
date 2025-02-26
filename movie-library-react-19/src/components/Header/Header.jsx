@@ -1,8 +1,11 @@
-const Header = ({ name }) => {
+const Header = () => {
     return (
-        <>
-            <h1 className="flex-1">Hello, { name }</h1>
-        </>
+        <header>
+            <img src="./hero.png" alt="Hero" />
+            <h1>
+                Find <span className="text-gradient">Movies</span> you will enjoy watching!
+            </h1>
+        </header>
     );
 }
 
