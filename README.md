@@ -33,6 +33,8 @@
 - Follow instructions in the **CLI**
 - cd **Project name** given in **Vite** installation
 - `npm i`
+- `npm run dev`
+- visit [@localhost](http://localhost:5173/)
 
 ### Deployment
 - Coming Soon[@livedemo](https://#)
