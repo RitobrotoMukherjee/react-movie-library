@@ -15,6 +15,7 @@
 - CSS 3
 - Vite
 - Appwrite
+- For APIs used [TMDB](https://www.themoviedb.org/)
 
 ## Live Demo (if available)
 
