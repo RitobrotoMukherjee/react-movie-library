@@ -12,16 +12,21 @@ const MainWrapper = () => {
     const [movies, setMovies] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
 
+    const FETCH_MOVIES_API = async () => {
+        try {
+            const API_RESPONSE = await FETCH_MOVIES();
+            setMovies(API_RESPONSE.results || []);
+        } catch (e) {
+            setErrorMessage(e.toString());
+        } finally {
+            setIsLoading(false);
+        }
+    }
+
     useEffect(() => {
         setIsLoading(true);
-
-        FETCH_MOVIES().then((data) => {
-            setMovies(data.results || []);
-        }).catch((e) => {
-            setErrorMessage(e.toString());
-        }).finally(() => {
-            setIsLoading(false);
-        });
+        FETCH_MOVIES_API();
+        
     }, []);
 
     return (
